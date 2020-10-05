@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.exe
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.deps.json
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.dll
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\bin\Debug\netcoreapp3.1\WhatsInTheBag.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.dll
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WhatsInTheBag\obj\Debug\netcoreapp3.1\WhatsInTheBag.genruntimeconfig.cache
